@@ -2,5 +2,4 @@
 name = input("Input your full name: ")
 
 # Print the input without the spaces in the beginning
-name.strip()
-print(name)
+print(name.strip())
